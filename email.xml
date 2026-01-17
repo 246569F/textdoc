@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<E-mail>
+    <sender>
+		<name>Alex</name>
+		<mail>alexcos@test.pl</mail>
+	</sender>
+	<reciper>
+		<name>Ktoś</name>
+		<mail>ktos@cos.pl</mail>
+	</reciper>
+    <subject>TextandDocu</properties>
+    <body>Coś tam pisze itp</body>
+</E-mail>

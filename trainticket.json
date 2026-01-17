@@ -1,0 +1,67 @@
+{
+  "issuer": "Indian Railways (IRCTC)",
+  "ticketType": "Electronic Reservation Slip (ERS)",
+  "pnr": "4445002606",
+  "train": {
+    "number": "06509",
+    "name": "SBCDNR HUMSAFAR"
+  },
+  "travelClass": "THIRD AC (3A)",
+  "quota": "GENERAL (GN)",
+  "journey": {
+    "from": {
+      "stationName": "MGR CHENNAI CTL",
+      "stationCode": "MAS"
+    },
+    "to": {
+      "stationName": "VIJAYAWADA JN",
+      "stationCode": "BZA"
+    },
+    "startDate": "2023-04-03",
+    "departure": {
+      "localTime": "14:40",
+      "localDate": "2023-04-03"
+    },
+    "arrival": {
+      "localTime": "21:10",
+      "localDate": "2023-04-03"
+    },
+    "distanceKm": 431
+  },
+  "booking": {
+    "bookingDateTimeLocal": "2023-03-05T20:51:47+05:30",
+    "transactionId": "100004011988572",
+    "status": "BOOKED"
+  },
+  "passengers": [
+    {
+      "name": "REDACTED",
+      "age": 37,
+      "gender": "F",
+      "seatAssignment": {
+        "coach": "B12",
+        "berthNumber": 15,
+        "berthType": "SIDE LOWER"
+      },
+      "bookingStatus": "CNF",
+      "currentStatus": "CNF"
+    }
+  ],
+  "fare": {
+    "currency": "INR",
+    "ticketFare": 870.0,
+    "irctcConvenienceFee": 23.6,
+    "travelInsurancePremium": 0.35,
+    "total": 893.95,
+    "includesTravelInsurance": true
+  },
+  "notes": [
+    "Passenger name was intentionally redacted to avoid sharing personal data.",
+    "Departure/arrival times on ERS are liable to change (per ticket instructions)."
+  ],
+  "source": {
+    "type": "PDF",
+    "url": "https://www.nriasacademy.in/course/1706872557ticket.pdf",
+    "extractedOn": "2026-01-17"
+  }
+}
